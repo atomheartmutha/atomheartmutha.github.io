@@ -1,0 +1,80 @@
+body {
+	color: silver;
+	background: black;
+	font-family: "Arvo", sans-serif;
+}
+header {
+	text-align: center;
+	background-image: url(images/purplebricks.jpg);
+	background-attachment: fixed;
+	color: #b4ff00;
+}
+a{
+color: #b4ff00;
+}
+h1{
+	color: #ffffff;
+	font-size: 48px;
+}
+.links {
+	color: silver;
+}
+.stacked {
+	border: 10px double #c375d5;
+	padding: 15px;
+}
+}
+.things {
+	color: silver;
+}
+.stacked {
+	border: 7px double #c375d5;
+	padding: 10px;
+}
+.contact
+{
+	text-align: center;
+	color: silver;
+	background-image: url(images/purplebricks.jpg);
+	background-attachment: fixed;
+}
+.contact img{
+	width: 50px;
+	margin: 10px;
+	border-radius: 69%;
+	border: none;
+}
+.contact div{
+	display: block;
+	clear: both;
+}
+.contact img:hover {
+	opacity: 0.5;
+}
+ul.websites{
+	padding: 0;
+	text-align: center;
+}
+ul.websites li{
+	list-style: none;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+.websites a{
+	background: #b4ff00;
+	padding: 10px 20px;
+	color: #000000;
+	text-decoration: none;
+	border-radius: 5px;
+	font-size: 24px;
+	display: block;
+}
+.websites a:hover{
+	background: silver;
+}
+p, ul, ol {
+line-height: 1.5;
+}
+h1, h2 {
+	font-family: "Arvo", sans-serif;
+}
